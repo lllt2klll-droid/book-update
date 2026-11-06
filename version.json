@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "name": "Bản phát hành chính thức 1.0.1",
+  "releaseDate": "07/11/2026",
+  "changelog": [
+    "Hỗ trợ trọn bộ SGK Tiểu học từ lớp 1 đến lớp 5",
+    "Trích xuất Kế hoạch bài dạy (KHBD) tự động sang file Word",
+    "Tự động nhận diện thư mục sách PDF",
+    "Hỗ trợ chạy độc lập không cần cài đặt (Portable)",
+    "Nhận diện đúng backend SGK khi cổng mặc định đang được sử dụng",
+    "Cải thiện kiểm tra cập nhật và đóng gói thông tin phiên bản"
+  ],
+  "downloadUrl": "https://github.com/lllt2klll-droid/book-update/releases"
+}
