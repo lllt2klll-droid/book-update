@@ -1,14 +1,13 @@
 {
-  "version": "1.0.1",
-  "name": "Bản phát hành chính thức 1.0.1",
-  "releaseDate": "07/11/2026",
+  "version": "1.0.3",
+  "name": "Bản phát hành chính thức 1.0.3",
+  "releaseDate": "11/11/2026",
   "changelog": [
-    "Hỗ trợ trọn bộ SGK Tiểu học từ lớp 1 đến lớp 5",
-    "Trích xuất Kế hoạch bài dạy (KHBD) tự động sang file Word",
-    "Tự động nhận diện thư mục sách PDF",
-    "Hỗ trợ chạy độc lập không cần cài đặt (Portable)",
-    "Nhận diện đúng backend SGK khi cổng mặc định đang được sử dụng",
-    "Cải thiện kiểm tra cập nhật và đóng gói thông tin phiên bản"
+    "Thêm nhiều sách cùng lúc: chọn hoặc kéo-thả tối đa 60 file mỗi lần",
+    "Bảng thêm hàng loạt: xem tiến trình, sửa tiêu đề từng file, thử lại file lỗi",
+    "PDF trên máy có thể chọn “Chỉ liên kết file gốc” cho cả loạt — không sao chép",
+    "Tự gợi ý tiêu đề, lớp, môn cho từng file khi thêm hàng loạt",
+    "Giữ nguyên luồng xem trước khi chỉ thêm một sách"
   ],
   "downloadUrl": "https://github.com/lllt2klll-droid/book-update/releases"
 }
